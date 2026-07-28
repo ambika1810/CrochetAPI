@@ -50,7 +50,8 @@
       "name": "Crochet Mini Sling Bag",
       "category": "Crochet Bags",
       "price": 999,
-      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/bags/minisling.jpg",
+      "image": "https://raw.githubusercontent.com
+/ambika1810/CrochetAPI/blob/main/images/categories/MiniSlingBag.jpeg",
       "description": "Stylish crochet mini sling bag for everyday use.",
       "stock": 14
     },
