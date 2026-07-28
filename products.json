@@ -5,7 +5,7 @@
       "name": "Handmade Rose Crochet Bag",
       "category": "Crochet Bags",
       "price": 1499,
-      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/RoseBag.jpg",
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/bags/RoseBag.jpg",
       "description": "Handmade crochet bag with beautiful rose design and premium yarn finish.",
       "stock": 10
     },
@@ -50,7 +50,7 @@
       "name": "Crochet Mini Sling Bag",
       "category": "Crochet Bags",
       "price": 999,
-      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/MiniSlingBag.jpeg",
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/bags/MiniSlingBag.jpeg",
       "description": "Stylish crochet mini sling bag for everyday use.",
       "stock": 14
     },
@@ -140,7 +140,7 @@
       "name": "Crochet Market Bag",
       "category": "Crochet Bags",
       "price": 899,
-      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/MarketBag.jpeg",
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/bags/MarketBag.jpeg",
       "description": "Eco-friendly crochet market bag for daily shopping.",
       "stock": 20
     },
