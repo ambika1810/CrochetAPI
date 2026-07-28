@@ -185,7 +185,7 @@
       "name": "Crochet Floral Handbag",
       "category": "Crochet Bags",
       "price": 1899,
-      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/floralBag.jpeg",
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/bags/floralBag.jpg",
       "description": "Premium crochet handbag with floral embroidery.",
       "stock": 5
     },
@@ -455,7 +455,7 @@
              "name": "Crochet Crossbody Bag",
              "category": "Crochet Bags",
              "price": 1199,
-             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/bags/crossbody.jpg",
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/bags/crossBodyBag.jpg",
              "description": "Compact crochet crossbody bag with adjustable handmade strap.",
              "stock": 12
            },
