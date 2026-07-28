@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Rose Crochet Bag",
+      "category": "Crochet Bags",
+      "price": 1499,
+      "image": "rosebag.jpg",
+      "description": "Handmade crochet rose bag",
+      "stock": 5
+    }
+  ]
+}

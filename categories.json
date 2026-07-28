@@ -1,0 +1,14 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Crochet Bags",
+      "image": "bags.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Keychains",
+      "image": "keychains.jpg"
+    }
+  ]
+}
