@@ -14,7 +14,7 @@
       "name": "Sunflower Crochet Keychain",
       "category": "Keychains",
       "price": 199,
-      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/keychains/sunflower.jpg",
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/keychains/SunFlowerKeychain.jpeg",
       "description": "Cute handmade sunflower keychain perfect for bags and gifts.",
       "stock": 20
     },
@@ -59,7 +59,7 @@
       "name": "Crochet Heart Keychain",
       "category": "Keychains",
       "price": 149,
-      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/keychains/heart.jpg",
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/keychains/heartKeychain.jpeg",
       "description": "Small handmade heart-shaped crochet keychain.",
       "stock": 25
     },
@@ -104,7 +104,7 @@
       "name": "Crochet Star Keychain",
       "category": "Keychains",
       "price": 179,
-      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/keychains/star.jpg",
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/keychains/StarKeychain.jpeg",
       "description": "Cute star-shaped crochet keychain accessory.",
       "stock": 22
     },
@@ -149,7 +149,7 @@
       "name": "Crochet Butterfly Keychain",
       "category": "Keychains",
       "price": 199,
-      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/keychains/butterfly.jpg",
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/keychains/butterflyKeychain.jpg",
       "description": "Colorful butterfly crochet keychain handmade with yarn.",
       "stock": 17
     },
@@ -194,7 +194,7 @@
       "name": "Crochet Mushroom Keychain",
       "category": "Keychains",
       "price": 229,
-      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/keychains/mushroom.jpg",
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/keychains/mushroomKeychain.jpg",
       "description": "Fun mushroom-shaped crochet keychain.",
       "stock": 19
     },
@@ -464,7 +464,7 @@
              "name": "Crochet Rainbow Keychain",
              "category": "Keychains",
              "price": 249,
-             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/keychains/rainbow.jpg",
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/keychains/rainbowKeychain.jpeg",
              "description": "Colorful rainbow crochet keychain made with soft yarn.",
              "stock": 18
            },
@@ -572,7 +572,7 @@
              "name": "Crochet Mini Food Keychain",
              "category": "Keychains",
              "price": 199,
-             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/keychains/food.jpg",
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/keychains/miniFoodKeychain.jpeg",
              "description": "Fun crochet food-themed keychain collection.",
              "stock": 25
            },
@@ -689,7 +689,7 @@
                  "name": "Crochet Fruit Keychain Set",
                  "category": "Keychains",
                  "price": 349,
-                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/keychains/fruits.jpg",
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/keychains/fruitKeychain.jpeg",
                  "description": "Colorful crochet fruit keychain collection.",
                  "stock": 20
                },
@@ -797,7 +797,7 @@
                  "name": "Crochet Animal Keychain",
                  "category": "Keychains",
                  "price": 299,
-                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/keychains/animal.jpg",
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/keychains/animalKeychain.jpeg",
                  "description": "Cute animal-shaped crochet keychain.",
                  "stock": 22
                },
