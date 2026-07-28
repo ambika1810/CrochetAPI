@@ -671,7 +671,7 @@
              "name": "Crochet Evening Purse",
              "category": "Crochet Bags",
              "price": 1399,
-             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/bags/eveningBag.jpeg",
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/bags/eveningBag.jpeg",
              "description": "Elegant crochet evening purse for special occasions.",
              "stock": 6
            },
@@ -680,7 +680,7 @@
                  "name": "Crochet Floral Backpack",
                  "category": "Crochet Bags",
                  "price": 1799,
-                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/bags/floralBackPack.jpeg",
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/bags/floralBackPack.jpeg",
                  "description": "Handmade crochet backpack with beautiful floral patterns.",
                  "stock": 7
                },
@@ -788,7 +788,7 @@
                  "name": "Crochet Designer Handbag",
                  "category": "Crochet Bags",
                  "price": 2299,
-                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/bags/designerHandBag.jpeg",
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/bags/designerHandBag.jpeg",
                  "description": "Luxury handmade crochet designer handbag.",
                  "stock": 5
                },
