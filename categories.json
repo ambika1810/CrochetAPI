@@ -3,12 +3,62 @@
     {
       "id": 1,
       "name": "Crochet Bags",
-      "image": "bags.jpg"
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/bags.jpg"
     },
     {
       "id": 2,
       "name": "Keychains",
-      "image": "keychains.jpg"
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/keychains.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Hair Accessories",
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/hair.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Crochet Flowers",
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/flowers.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Plush Toys",
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/toys.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Home Decor",
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/home.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Baby Items",
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/baby.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Crochet Jewellery",
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/jewellery.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Crochet Clothing",
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/clothing.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Gift Collections",
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/gifts.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Custom Orders",
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/custom.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Seasonal Collections",
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/seasonal.jpg"
     }
   ]
 }
