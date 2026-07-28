@@ -149,7 +149,7 @@
       "name": "Crochet Butterfly Keychain",
       "category": "Keychains",
       "price": 199,
-      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/keychains/butterflyKeychain.jpg",
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/keychains/butterflyKeychain.jpeg",
       "description": "Colorful butterfly crochet keychain handmade with yarn.",
       "stock": 17
     },
@@ -194,7 +194,7 @@
       "name": "Crochet Mushroom Keychain",
       "category": "Keychains",
       "price": 229,
-      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/keychains/mushroomKeychain.jpg",
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/categories/keychains/mushroomKeychain.jpeg",
       "description": "Fun mushroom-shaped crochet keychain.",
       "stock": 19
     },
