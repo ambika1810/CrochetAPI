@@ -2,12 +2,903 @@
   "products": [
     {
       "id": 1,
-      "name": "Rose Crochet Bag",
+      "name": "Handmade Rose Crochet Bag",
       "category": "Crochet Bags",
       "price": 1499,
-      "image": "rosebag.jpg",
-      "description": "Handmade crochet rose bag",
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/bags/rosebag.jpg",
+      "description": "Handmade crochet bag with beautiful rose design and premium yarn finish.",
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "name": "Sunflower Crochet Keychain",
+      "category": "Keychains",
+      "price": 199,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/keychains/sunflower.jpg",
+      "description": "Cute handmade sunflower keychain perfect for bags and gifts.",
+      "stock": 20
+    },
+    {
+      "id": 3,
+      "name": "Crochet Pearl Hair Clip",
+      "category": "Hair Accessories",
+      "price": 299,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/hair/pearlclip.jpg",
+      "description": "Elegant crochet hair clip decorated with pearl details.",
+      "stock": 15
+    },
+    {
+      "id": 4,
+      "name": "Crochet Daisy Flower Bouquet",
+      "category": "Crochet Flowers",
+      "price": 899,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/flowers/daisybouquet.jpg",
+      "description": "Handcrafted crochet daisy bouquet that never fades.",
+      "stock": 8
+    },
+    {
+      "id": 5,
+      "name": "Cute Crochet Teddy Bear",
+      "category": "Plush Toys",
+      "price": 699,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/toys/teddybear.jpg",
+      "description": "Soft handmade crochet teddy bear suitable for kids and gifting.",
+      "stock": 12
+    },
+    {
+      "id": 6,
+      "name": "Crochet Mini Sling Bag",
+      "category": "Crochet Bags",
+      "price": 999,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/bags/minisling.jpg",
+      "description": "Stylish crochet mini sling bag for everyday use.",
+      "stock": 14
+    },
+    {
+      "id": 7,
+      "name": "Crochet Heart Keychain",
+      "category": "Keychains",
+      "price": 149,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/keychains/heart.jpg",
+      "description": "Small handmade heart-shaped crochet keychain.",
+      "stock": 25
+    },
+    {
+      "id": 8,
+      "name": "Crochet Flower Hair Band",
+      "category": "Hair Accessories",
+      "price": 349,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/hair/flowerband.jpg",
+      "description": "Beautiful crochet flower hair band made with soft yarn.",
+      "stock": 18
+    },
+    {
+      "id": 9,
+      "name": "Crochet Tulip Flower Set",
+      "category": "Crochet Flowers",
+      "price": 799,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/flowers/tulipset.jpg",
+      "description": "Colorful handmade crochet tulip flower collection.",
+      "stock": 10
+    },
+    {
+      "id": 10,
+      "name": "Crochet Bunny Plush Toy",
+      "category": "Plush Toys",
+      "price": 749,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/toys/bunny.jpg",
+      "description": "Adorable crochet bunny plush toy handmade with care.",
+      "stock": 9
+    },
+    {
+      "id": 11,
+      "name": "Crochet Boho Tote Bag",
+      "category": "Crochet Bags",
+      "price": 1699,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/bags/bohotote.jpg",
+      "description": "Bohemian style crochet tote bag with durable stitching.",
+      "stock": 7
+    },
+    {
+      "id": 12,
+      "name": "Crochet Star Keychain",
+      "category": "Keychains",
+      "price": 179,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/keychains/star.jpg",
+      "description": "Cute star-shaped crochet keychain accessory.",
+      "stock": 22
+    },
+    {
+      "id": 13,
+      "name": "Crochet Scrunchie Set",
+      "category": "Hair Accessories",
+      "price": 249,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/hair/scrunchies.jpg",
+      "description": "Set of colorful handmade crochet scrunchies.",
+      "stock": 30
+    },
+    {
+      "id": 14,
+      "name": "Crochet Rose Single Stem",
+      "category": "Crochet Flowers",
+      "price": 299,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/flowers/rose.jpg",
+      "description": "Handmade crochet rose flower with realistic detailing.",
+      "stock": 16
+    },
+    {
+      "id": 15,
+      "name": "Crochet Cat Plush Toy",
+      "category": "Plush Toys",
+      "price": 599,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/toys/cat.jpg",
+      "description": "Cute crochet cat plush toy for children and collectors.",
+      "stock": 11
+    },
+    {
+      "id": 16,
+      "name": "Crochet Market Bag",
+      "category": "Crochet Bags",
+      "price": 899,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/bags/marketbag.jpg",
+      "description": "Eco-friendly crochet market bag for daily shopping.",
+      "stock": 20
+    },
+    {
+      "id": 17,
+      "name": "Crochet Butterfly Keychain",
+      "category": "Keychains",
+      "price": 199,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/keychains/butterfly.jpg",
+      "description": "Colorful butterfly crochet keychain handmade with yarn.",
+      "stock": 17
+    },
+    {
+      "id": 18,
+      "name": "Crochet Bow Hair Clip",
+      "category": "Hair Accessories",
+      "price": 199,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/hair/bowclip.jpg",
+      "description": "Cute crochet bow clip for stylish hairstyles.",
+      "stock": 21
+    },
+    {
+      "id": 19,
+      "name": "Crochet Lavender Bouquet",
+      "category": "Crochet Flowers",
+      "price": 999,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/flowers/lavender.jpg",
+      "description": "Handmade crochet lavender bouquet for home decoration.",
+      "stock": 6
+    },
+    {
+      "id": 20,
+      "name": "Crochet Elephant Plush",
+      "category": "Plush Toys",
+      "price": 799,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/toys/elephant.jpg",
+      "description": "Soft crochet elephant plush toy made with premium yarn.",
+      "stock": 13
+    },
+    {
+      "id": 21,
+      "name": "Crochet Floral Handbag",
+      "category": "Crochet Bags",
+      "price": 1899,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/bags/floralhandbag.jpg",
+      "description": "Premium crochet handbag with floral embroidery.",
       "stock": 5
-    }
-  ]
+    },
+    {
+      "id": 22,
+      "name": "Crochet Mushroom Keychain",
+      "category": "Keychains",
+      "price": 229,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/keychains/mushroom.jpg",
+      "description": "Fun mushroom-shaped crochet keychain.",
+      "stock": 19
+    },
+    {
+      "id": 23,
+      "name": "Crochet Headband",
+      "category": "Hair Accessories",
+      "price": 399,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/hair/headband.jpg",
+      "description": "Comfortable handmade crochet headband.",
+      "stock": 14
+    },
+    {
+      "id": 24,
+      "name": "Crochet Sunflower Stem",
+      "category": "Crochet Flowers",
+      "price": 349,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/flowers/sunflowerstem.jpg",
+      "description": "Bright crochet sunflower stem for decoration.",
+      "stock": 12
+    },
+    {
+      "id": 25,
+      "name": "Crochet Panda Plush Toy",
+      "category": "Plush Toys",
+      "price": 899,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/toys/panda.jpg",
+      "description": "Adorable handmade crochet panda plush toy.",
+      "stock": 8
+    },
+    {
+          "id": 26,
+          "name": "Crochet Wall Hanging Decor",
+          "category": "Home Decor",
+          "price": 799,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/home/wallhanging.jpg",
+          "description": "Handmade crochet wall hanging to add a cozy touch to your home.",
+          "stock": 10
+        },
+        {
+          "id": 27,
+          "name": "Crochet Cushion Cover",
+          "category": "Home Decor",
+          "price": 699,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/home/cushioncover.jpg",
+          "description": "Beautiful crochet cushion cover with handcrafted patterns.",
+          "stock": 15
+        },
+        {
+          "id": 28,
+          "name": "Crochet Baby Blanket",
+          "category": "Baby Items",
+          "price": 1499,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/baby/blanket.jpg",
+          "description": "Soft crochet baby blanket made with gentle yarn.",
+          "stock": 9
+        },
+        {
+          "id": 29,
+          "name": "Crochet Baby Cap",
+          "category": "Baby Items",
+          "price": 399,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/baby/cap.jpg",
+          "description": "Warm and comfortable handmade crochet baby cap.",
+          "stock": 18
+        },
+        {
+          "id": 30,
+          "name": "Crochet Pearl Necklace",
+          "category": "Crochet Jewellery",
+          "price": 599,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/jewellery/pearlnecklace.jpg",
+          "description": "Elegant crochet necklace with pearl-inspired detailing.",
+          "stock": 12
+        },
+        {
+          "id": 31,
+          "name": "Crochet Bracelet Set",
+          "category": "Crochet Jewellery",
+          "price": 349,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/jewellery/bracelet.jpg",
+          "description": "Colorful handmade crochet bracelet collection.",
+          "stock": 20
+        },
+        {
+          "id": 32,
+          "name": "Crochet Summer Top",
+          "category": "Crochet Clothing",
+          "price": 1299,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/clothing/summertop.jpg",
+          "description": "Lightweight crochet summer top with stylish design.",
+          "stock": 7
+        },
+        {
+          "id": 33,
+          "name": "Crochet Cardigan",
+          "category": "Crochet Clothing",
+          "price": 2499,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/clothing/cardigan.jpg",
+          "description": "Warm handmade crochet cardigan for all seasons.",
+          "stock": 5
+        },
+        {
+          "id": 34,
+          "name": "Crochet Gift Hamper",
+          "category": "Gift Collections",
+          "price": 1599,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/gifts/hamper.jpg",
+          "description": "Beautiful crochet gift collection for special occasions.",
+          "stock": 10
+        },
+        {
+          "id": 35,
+          "name": "Custom Name Crochet Doll",
+          "category": "Custom Orders",
+          "price": 999,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/custom/nameddoll.jpg",
+          "description": "Personalized crochet doll with custom name option.",
+          "stock": 6
+        },
+        {
+          "id": 36,
+          "name": "Christmas Crochet Ornament",
+          "category": "Seasonal Collections",
+          "price": 299,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/seasonal/christmas.jpg",
+          "description": "Handmade crochet ornament for festive decoration.",
+          "stock": 25
+        },
+        {
+          "id": 37,
+          "name": "Crochet Storage Basket",
+          "category": "Home Decor",
+          "price": 899,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/home/storagebasket.jpg",
+          "description": "Stylish crochet basket for organizing home items.",
+          "stock": 11
+        },
+        {
+          "id": 38,
+          "name": "Crochet Baby Shoes",
+          "category": "Baby Items",
+          "price": 499,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/baby/shoes.jpg",
+          "description": "Tiny handmade crochet shoes for newborn babies.",
+          "stock": 16
+        },
+        {
+          "id": 39,
+          "name": "Crochet Flower Earrings",
+          "category": "Crochet Jewellery",
+          "price": 299,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/jewellery/earrings.jpg",
+          "description": "Lightweight crochet flower earrings handmade with care.",
+          "stock": 22
+        },
+        {
+          "id": 40,
+          "name": "Crochet Winter Shawl",
+          "category": "Crochet Clothing",
+          "price": 1799,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/clothing/shawl.jpg",
+          "description": "Elegant handmade crochet shawl for winter wear.",
+          "stock": 8
+        },
+        {
+          "id": 41,
+          "name": "Crochet Anniversary Gift Set",
+          "category": "Gift Collections",
+          "price": 1899,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/gifts/anniversary.jpg",
+          "description": "Special crochet gift set for anniversary celebrations.",
+          "stock": 5
+        },
+        {
+          "id": 42,
+          "name": "Custom Crochet Portrait",
+          "category": "Custom Orders",
+          "price": 2999,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/custom/portrait.jpg",
+          "description": "Customized crochet portrait handmade on request.",
+          "stock": 3
+        },
+        {
+          "id": 43,
+          "name": "Valentine Crochet Heart",
+          "category": "Seasonal Collections",
+          "price": 399,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/seasonal/heart.jpg",
+          "description": "Romantic crochet heart decoration for Valentine's Day.",
+          "stock": 20
+        },
+        {
+          "id": 44,
+          "name": "Crochet Plant Holder",
+          "category": "Home Decor",
+          "price": 549,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/home/plantholder.jpg",
+          "description": "Handmade crochet plant holder for indoor decoration.",
+          "stock": 13
+        },
+        {
+          "id": 45,
+          "name": "Crochet Baby Sweater",
+          "category": "Baby Items",
+          "price": 899,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/baby/sweater.jpg",
+          "description": "Soft crochet sweater designed for babies.",
+          "stock": 10
+        },
+        {
+          "id": 46,
+          "name": "Crochet Ring Set",
+          "category": "Crochet Jewellery",
+          "price": 249,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/jewellery/rings.jpg",
+          "description": "Cute handmade crochet rings in multiple colors.",
+          "stock": 30
+        },
+        {
+          "id": 47,
+          "name": "Crochet Long Skirt",
+          "category": "Crochet Clothing",
+          "price": 1999,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/clothing/skirt.jpg",
+          "description": "Beautiful crochet skirt with handmade patterns.",
+          "stock": 6
+        },
+        {
+          "id": 48,
+          "name": "Crochet Birthday Gift Box",
+          "category": "Gift Collections",
+          "price": 1299,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/gifts/birthday.jpg",
+          "description": "Creative crochet gift box for birthdays.",
+          "stock": 12
+        },
+        {
+          "id": 49,
+          "name": "Custom Crochet Keychain Set",
+          "category": "Custom Orders",
+          "price": 599,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/custom/keychainset.jpg",
+          "description": "Personalized crochet keychain collection.",
+          "stock": 15
+        },
+        {
+          "id": 50,
+          "name": "Diwali Crochet Decoration Set",
+          "category": "Seasonal Collections",
+          "price": 999,
+          "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/seasonal/diwali.jpg",
+          "description": "Festive crochet decoration set for Diwali celebrations.",
+          "stock": 14
+        },
+        {
+             "id": 51,
+             "name": "Crochet Crossbody Bag",
+             "category": "Crochet Bags",
+             "price": 1199,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/bags/crossbody.jpg",
+             "description": "Compact crochet crossbody bag with adjustable handmade strap.",
+             "stock": 12
+           },
+           {
+             "id": 52,
+             "name": "Crochet Rainbow Keychain",
+             "category": "Keychains",
+             "price": 249,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/keychains/rainbow.jpg",
+             "description": "Colorful rainbow crochet keychain made with soft yarn.",
+             "stock": 18
+           },
+           {
+             "id": 53,
+             "name": "Crochet Flower Hair Pin",
+             "category": "Hair Accessories",
+             "price": 299,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/hair/flowerpin.jpg",
+             "description": "Handmade crochet flower hair pin for daily styling.",
+             "stock": 20
+           },
+           {
+             "id": 54,
+             "name": "Crochet Lily Bouquet",
+             "category": "Crochet Flowers",
+             "price": 1099,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/flowers/lily.jpg",
+             "description": "Elegant crochet lily bouquet handmade for decoration.",
+             "stock": 7
+           },
+           {
+             "id": 55,
+             "name": "Crochet Fox Plush Toy",
+             "category": "Plush Toys",
+             "price": 799,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/toys/fox.jpg",
+             "description": "Cute handmade crochet fox plush toy.",
+             "stock": 10
+           },
+           {
+             "id": 56,
+             "name": "Crochet Table Runner",
+             "category": "Home Decor",
+             "price": 1299,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/home/tablerunner.jpg",
+             "description": "Decorative crochet table runner with detailed patterns.",
+             "stock": 8
+           },
+           {
+             "id": 57,
+             "name": "Crochet Baby Mittens",
+             "category": "Baby Items",
+             "price": 349,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/baby/mittens.jpg",
+             "description": "Soft crochet mittens designed for babies.",
+             "stock": 22
+           },
+           {
+             "id": 58,
+             "name": "Crochet Charm Bracelet",
+             "category": "Crochet Jewellery",
+             "price": 399,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/jewellery/charmbracelet.jpg",
+             "description": "Handmade crochet bracelet with colorful charms.",
+             "stock": 16
+           },
+           {
+             "id": 59,
+             "name": "Crochet Poncho",
+             "category": "Crochet Clothing",
+             "price": 2199,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/clothing/poncho.jpg",
+             "description": "Stylish handmade crochet poncho for casual wear.",
+             "stock": 5
+           },
+           {
+             "id": 60,
+             "name": "Crochet Friendship Gift Set",
+             "category": "Gift Collections",
+             "price": 799,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/gifts/friendship.jpg",
+             "description": "Crochet gift set designed for friends and loved ones.",
+             "stock": 15
+           },
+           {
+             "id": 61,
+             "name": "Custom Crochet Animal Doll",
+             "category": "Custom Orders",
+             "price": 1199,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/custom/animaldoll.jpg",
+             "description": "Custom handmade crochet animal doll.",
+             "stock": 4
+           },
+           {
+             "id": 62,
+             "name": "Easter Crochet Egg Decoration",
+             "category": "Seasonal Collections",
+             "price": 399,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/seasonal/easteregg.jpg",
+             "description": "Festive crochet egg decoration for celebrations.",
+             "stock": 18
+           },
+           {
+             "id": 63,
+             "name": "Crochet Bucket Bag",
+             "category": "Crochet Bags",
+             "price": 1599,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/bags/bucketbag.jpg",
+             "description": "Trendy crochet bucket bag with handmade texture.",
+             "stock": 9
+           },
+           {
+             "id": 64,
+             "name": "Crochet Mini Food Keychain",
+             "category": "Keychains",
+             "price": 199,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/keychains/food.jpg",
+             "description": "Fun crochet food-themed keychain collection.",
+             "stock": 25
+           },
+           {
+             "id": 65,
+             "name": "Crochet Ribbon Hair Bow",
+             "category": "Hair Accessories",
+             "price": 279,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/hair/ribbonbow.jpg",
+             "description": "Cute crochet ribbon bow accessory.",
+             "stock": 19
+           },
+           {
+             "id": 66,
+             "name": "Crochet Marigold Garland",
+             "category": "Crochet Flowers",
+             "price": 899,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/flowers/marigold.jpg",
+             "description": "Handmade crochet marigold garland for decoration.",
+             "stock": 11
+           },
+           {
+             "id": 67,
+             "name": "Crochet Koala Plush Toy",
+             "category": "Plush Toys",
+             "price": 849,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/toys/koala.jpg",
+             "description": "Soft crochet koala plush toy handmade with love.",
+             "stock": 8
+           },
+           {
+             "id": 68,
+             "name": "Crochet Dream Catcher",
+             "category": "Home Decor",
+             "price": 999,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/home/dreamcatcher.jpg",
+             "description": "Beautiful crochet dream catcher for wall decoration.",
+             "stock": 10
+           },
+           {
+             "id": 69,
+             "name": "Crochet Baby Bib",
+             "category": "Baby Items",
+             "price": 299,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/baby/bib.jpg",
+             "description": "Soft handmade crochet baby bib.",
+             "stock": 24
+           },
+           {
+             "id": 70,
+             "name": "Crochet Pendant Necklace",
+             "category": "Crochet Jewellery",
+             "price": 499,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/jewellery/pendant.jpg",
+             "description": "Unique crochet pendant necklace design.",
+             "stock": 14
+           },
+           {
+             "id": 71,
+             "name": "Crochet Sleeveless Top",
+             "category": "Crochet Clothing",
+             "price": 999,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/clothing/sleevelesstop.jpg",
+             "description": "Handmade crochet sleeveless top for summer.",
+             "stock": 8
+           },
+           {
+             "id": 72,
+             "name": "Crochet Thank You Gift Box",
+             "category": "Gift Collections",
+             "price": 699,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/gifts/thankyou.jpg",
+             "description": "Small crochet gift box for appreciation.",
+             "stock": 17
+           },
+           {
+             "id": 73,
+             "name": "Custom Crochet Couple Doll",
+             "category": "Custom Orders",
+             "price": 2499,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/custom/couple.jpg",
+             "description": "Personalized crochet couple dolls made to order.",
+             "stock": 3
+           },
+           {
+             "id": 74,
+             "name": "New Year Crochet Decoration",
+             "category": "Seasonal Collections",
+             "price": 599,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/seasonal/newyear.jpg",
+             "description": "Handmade crochet decoration for New Year celebrations.",
+             "stock": 13
+           },
+           {
+             "id": 75,
+             "name": "Crochet Evening Purse",
+             "category": "Crochet Bags",
+             "price": 1399,
+             "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/bags/eveningpurse.jpg",
+             "description": "Elegant crochet evening purse for special occasions.",
+             "stock": 6
+           },
+           {
+                 "id": 76,
+                 "name": "Crochet Floral Backpack",
+                 "category": "Crochet Bags",
+                 "price": 1799,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/bags/floralbackpack.jpg",
+                 "description": "Handmade crochet backpack with beautiful floral patterns.",
+                 "stock": 7
+               },
+               {
+                 "id": 77,
+                 "name": "Crochet Fruit Keychain Set",
+                 "category": "Keychains",
+                 "price": 349,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/keychains/fruits.jpg",
+                 "description": "Colorful crochet fruit keychain collection.",
+                 "stock": 20
+               },
+               {
+                 "id": 78,
+                 "name": "Crochet Butterfly Hair Clip",
+                 "category": "Hair Accessories",
+                 "price": 299,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/hair/butterflyclip.jpg",
+                 "description": "Delicate crochet butterfly hair accessory.",
+                 "stock": 18
+               },
+               {
+                 "id": 79,
+                 "name": "Crochet Daisy Wall Frame",
+                 "category": "Crochet Flowers",
+                 "price": 1199,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/flowers/daisyframe.jpg",
+                 "description": "Handmade crochet flower wall frame decoration.",
+                 "stock": 6
+               },
+               {
+                 "id": 80,
+                 "name": "Crochet Penguin Plush Toy",
+                 "category": "Plush Toys",
+                 "price": 899,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/toys/penguin.jpg",
+                 "description": "Cute handmade crochet penguin plush toy.",
+                 "stock": 9
+               },
+               {
+                 "id": 81,
+                 "name": "Crochet Coaster Set",
+                 "category": "Home Decor",
+                 "price": 499,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/home/coasters.jpg",
+                 "description": "Set of handmade crochet coasters for dining tables.",
+                 "stock": 25
+               },
+               {
+                 "id": 82,
+                 "name": "Crochet Baby Sweater Set",
+                 "category": "Baby Items",
+                 "price": 1199,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/baby/sweaterset.jpg",
+                 "description": "Matching crochet sweater set for babies.",
+                 "stock": 8
+               },
+               {
+                 "id": 83,
+                 "name": "Crochet Flower Pendant",
+                 "category": "Crochet Jewellery",
+                 "price": 399,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/jewellery/flowerpendant.jpg",
+                 "description": "Handcrafted crochet flower pendant necklace.",
+                 "stock": 16
+               },
+               {
+                 "id": 84,
+                 "name": "Crochet Winter Cap",
+                 "category": "Crochet Clothing",
+                 "price": 599,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/clothing/wintercap.jpg",
+                 "description": "Warm crochet winter cap with handmade finishing.",
+                 "stock": 14
+               },
+               {
+                 "id": 85,
+                 "name": "Crochet Wedding Gift Box",
+                 "category": "Gift Collections",
+                 "price": 1999,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/gifts/wedding.jpg",
+                 "description": "Premium crochet gift box for weddings.",
+                 "stock": 5
+               },
+               {
+                 "id": 86,
+                 "name": "Custom Crochet Pet Doll",
+                 "category": "Custom Orders",
+                 "price": 1799,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/custom/petdoll.jpg",
+                 "description": "Customized crochet pet doll made from reference photos.",
+                 "stock": 4
+               },
+               {
+                 "id": 87,
+                 "name": "Halloween Crochet Pumpkin",
+                 "category": "Seasonal Collections",
+                 "price": 499,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/seasonal/pumpkin.jpg",
+                 "description": "Cute crochet pumpkin decoration for Halloween.",
+                 "stock": 15
+               },
+               {
+                 "id": 88,
+                 "name": "Crochet Designer Handbag",
+                 "category": "Crochet Bags",
+                 "price": 2299,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/bags/designerbag.jpg",
+                 "description": "Luxury handmade crochet designer handbag.",
+                 "stock": 5
+               },
+               {
+                 "id": 89,
+                 "name": "Crochet Animal Keychain",
+                 "category": "Keychains",
+                 "price": 299,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/keychains/animal.jpg",
+                 "description": "Cute animal-shaped crochet keychain.",
+                 "stock": 22
+               },
+               {
+                 "id": 90,
+                 "name": "Crochet Leaf Hair Comb",
+                 "category": "Hair Accessories",
+                 "price": 349,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/hair/leafcomb.jpg",
+                 "description": "Handmade crochet leaf design hair accessory.",
+                 "stock": 12
+               },
+               {
+                 "id": 91,
+                 "name": "Crochet Orchid Bouquet",
+                 "category": "Crochet Flowers",
+                 "price": 1399,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/flowers/orchid.jpg",
+                 "description": "Elegant handmade crochet orchid bouquet.",
+                 "stock": 6
+               },
+               {
+                 "id": 92,
+                 "name": "Crochet Giraffe Plush Toy",
+                 "category": "Plush Toys",
+                 "price": 999,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/toys/giraffe.jpg",
+                 "description": "Adorable crochet giraffe plush toy.",
+                 "stock": 7
+               },
+               {
+                 "id": 93,
+                 "name": "Crochet Mirror Frame",
+                 "category": "Home Decor",
+                 "price": 1499,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/home/mirrorframe.jpg",
+                 "description": "Decorative crochet mirror frame for interiors.",
+                 "stock": 5
+               },
+               {
+                 "id": 94,
+                 "name": "Crochet Baby Toy Rattle",
+                 "category": "Baby Items",
+                 "price": 399,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/baby/rattle.jpg",
+                 "description": "Soft crochet baby rattle toy made with safe materials.",
+                 "stock": 18
+               },
+               {
+                 "id": 95,
+                 "name": "Crochet Layered Necklace",
+                 "category": "Crochet Jewellery",
+                 "price": 699,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/jewellery/layerednecklace.jpg",
+                 "description": "Stylish layered crochet necklace design.",
+                 "stock": 10
+               },
+               {
+                 "id": 96,
+                 "name": "Crochet Long Cardigan",
+                 "category": "Crochet Clothing",
+                 "price": 2799,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/clothing/longcardigan.jpg",
+                 "description": "Premium handmade crochet long cardigan.",
+                 "stock": 4
+               },
+               {
+                 "id": 97,
+                 "name": "Crochet Festival Gift Pack",
+                 "category": "Gift Collections",
+                 "price": 1499,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/gifts/festivalpack.jpg",
+                 "description": "Festive crochet gift collection for celebrations.",
+                 "stock": 9
+               },
+               {
+                 "id": 98,
+                 "name": "Custom Crochet Wedding Couple",
+                 "category": "Custom Orders",
+                 "price": 3499,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/custom/weddingcouple.jpg",
+                 "description": "Personalized crochet wedding couple dolls.",
+                 "stock": 2
+               },
+               {
+                 "id": 99,
+                 "name": "Christmas Crochet Gift Set",
+                 "category": "Seasonal Collections",
+                 "price": 1199,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/seasonal/christmasgift.jpg",
+                 "description": "Christmas themed crochet gift collection.",
+                 "stock": 12
+               },
+               {
+                 "id": 100,
+                 "name": "Premium Crochet Collection Box",
+                 "category": "Gift Collections",
+                 "price": 2999,
+                 "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/gifts/premiumbox.jpg",
+                 "description": "Premium collection box containing handcrafted crochet items.",
+                 "stock": 3
+               }
+      ]
 }
