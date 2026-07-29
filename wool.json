@@ -98,6 +98,17 @@
   "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/wool/ColourPacksYarn/colorPacks.jpg",
   "description": "Multi color wool pack for creative crochet projects.",
   "stock": 30
+},
+    {
+  "id": 10,
+  "name": "Pastel Pink Yarn",
+  "category": "Wool",
+  "subcategory": "Pastel Collection",
+  "color": "Pastel Pink",
+  "price": 599,
+  "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/wool/PastelCollection/pastelPinkYarn.jpeg",
+  "description": "Beautiful pastel shade yarn for crochet artwork.",
+  "stock": 20
 }
     
   ]
