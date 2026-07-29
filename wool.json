@@ -65,6 +65,17 @@
       "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/wool/CottonYarn/CD-01-GAJARI-CottonYarn.jpeg",
       "description": "Soft cotton yarn perfect for crochet projects.",
       "stock": 50
+    },
+    {
+      "id": 7,
+      "name": "BeanPinkVelvetYarn",
+      "category": "Wool",
+      "subcategory": "Velvet Yarn",
+      "color": "Bean",
+      "price": 299,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/wool/VelvetYarn/BeanPinkVelvetYarn.jpg",
+      "description": "Soft velvet yarn perfect for crochet projects.",
+      "stock": 50
     }
     
   ]
