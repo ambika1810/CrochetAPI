@@ -109,6 +109,17 @@
   "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/wool/PastelCollection/pastelPinkYarn.jpeg",
   "description": "Beautiful pastel shade yarn for crochet artwork.",
   "stock": 20
+},
+    {
+  "id": 11,
+  "name": "BW-07 Sky Blue Baby Yarn",
+  "category": "Wool",
+  "subcategory": "Baby Yarn",
+  "color": "Sky Blue",
+  "price": 299,
+  "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/wool/BabyYarn/BW-07-SKY-BLUE-BabyYarn.jpeg",
+  "description": "Soft baby yarn perfect for delicate crochet projects.",
+  "stock": 30
 }
     
   ]
