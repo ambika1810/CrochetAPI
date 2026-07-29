@@ -23,7 +23,7 @@
       "stock": 50
     },
       {
-      "id": 1,
+      "id": 2,
       "name": "CD-09- FIROZY-CottonYarn",
       "category": "Wool",
       "subcategory": "Cotton Yarn",
@@ -34,7 +34,7 @@
       "stock": 50
     },
     {
-      "id": 1,
+      "id": 3,
       "name": "CD-04-LILAC-CottonYarn",
       "category": "Wool",
       "subcategory": "Cotton Yarn",
@@ -45,7 +45,7 @@
       "stock": 50
     },
     {
-      "id": 1,
+      "id": 5,
       "name": "CD-01-GAJARI-CottonYarn",
       "category": "Wool",
       "subcategory": "Cotton Yarn",
