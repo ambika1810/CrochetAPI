@@ -1,0 +1,15 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sky Blue Acrylic Yarn",
+      "category": "Wool",
+      "subcategory": "Acrylic Yarn",
+      "color": "Sky Blue",
+      "price": 299,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/wool/AcrylicYarn/BB-12-SKY-BLUE-AcrylicYarn.jpeg",
+      "description": "Soft acrylic yarn perfect for crochet projects.",
+      "stock": 50
+    }
+  ]
+}
