@@ -87,6 +87,17 @@
   "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/wool/ChunkyYarn/geryChunkyWool.jpeg",
   "description": "Soft chunky wool yarn for warm crochet creations.",
   "stock": 30
+},
+{
+  "id": 9,
+  "name": "Colour Packs Yarn",
+  "category": "Wool",
+  "subcategory": "Color Packs",
+  "color": "Multi Color",
+  "price": 499,
+  "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/wool/ColourPacksYarn/colorPacks.jpg",
+  "description": "Multi color wool pack for creative crochet projects.",
+  "stock": 30
 }
     
   ]
