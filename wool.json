@@ -10,6 +10,51 @@
       "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/wool/AcrylicYarn/BB-12-SKY-BLUE-AcrylicYarn.jpeg",
       "description": "Soft acrylic yarn perfect for crochet projects.",
       "stock": 50
+    },
+    {
+      "id": 1,
+      "name": "CD 13- TANGY-ORANGE-CottonYarn",
+      "category": "Wool",
+      "subcategory": "Cotton Yarn",
+      "color": "Orange",
+      "price": 299,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/wool/CottonYarn/CD 13- TANGY ORANGE-CottonYarn.jpeg",
+      "description": "Soft cotton yarn perfect for crochet projects.",
+      "stock": 50
+    },
+      {
+      "id": 1,
+      "name": "CD-09- FIROZY-CottonYarn",
+      "category": "Wool",
+      "subcategory": "Cotton Yarn",
+      "color": "Firozy",
+      "price": 299,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/wool/CottonYarn/CD-09- FIROZY-CottonYarn.jpeg",
+      "description": "Soft cotton yarn perfect for crochet projects.",
+      "stock": 50
+    },
+    {
+      "id": 1,
+      "name": "CD-04-LILAC-CottonYarn",
+      "category": "Wool",
+      "subcategory": "Cotton Yarn",
+      "color": "Lavender",
+      "price": 299,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/wool/CottonYarn/CD-04-LILAC-CottonYarn.jpeg",
+      "description": "Soft cotton yarn perfect for crochet projects.",
+      "stock": 50
+    },
+    {
+      "id": 1,
+      "name": "CD-01-GAJARI-CottonYarn",
+      "category": "Wool",
+      "subcategory": "Cotton Yarn",
+      "color": "Gajari",
+      "price": 299,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/wool/CottonYarn/CD-01-GAJARI-CottonYarn.jpeg",
+      "description": "Soft cotton yarn perfect for crochet projects.",
+      "stock": 50
     }
+    
   ]
 }
