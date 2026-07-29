@@ -76,7 +76,18 @@
       "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/wool/VelvetYarn/BeanPinkVelvetYarn.jpg",
       "description": "Soft velvet yarn perfect for crochet projects.",
       "stock": 50
-    }
+    },
+    {
+  "id": 8,
+  "name": "Grey Chunky Wool",
+  "category": "Wool",
+  "subcategory": "Chunky Yarn",
+  "color": "Grey",
+  "price": 399,
+  "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/wool/ChunkyYarn/geryChunkyWool.jpeg",
+  "description": "Soft chunky wool yarn for warm crochet creations.",
+  "stock": 30
+}
     
   ]
 }
