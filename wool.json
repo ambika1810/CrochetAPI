@@ -12,6 +12,17 @@
       "stock": 50
     },
     {
+      "id": 6,
+      "name": "BB-16- BRIGHT PINK-AcrylicYarn",
+      "category": "Wool",
+      "subcategory": "Acrylic Yarn",
+      "color": "Bright Pink",
+      "price": 299,
+      "image": "https://raw.githubusercontent.com/ambika1810/CrochetAPI/main/images/wool/AcrylicYarn/BB-16- BRIGHT PINK-AcrylicYarn.jpeg",
+      "description": "Soft acrylic yarn perfect for crochet projects.",
+      "stock": 50
+    },
+    {
       "id": 1,
       "name": "CD 13- TANGY-ORANGE-CottonYarn",
       "category": "Wool",
